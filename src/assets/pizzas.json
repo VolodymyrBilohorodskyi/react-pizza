@@ -1,0 +1,300 @@
+[
+  {
+    "id": "45678",
+    "title": "Margherita",
+    "description": "A classic Italian pizza topped with tomato sauce, fresh mozzarella, and basil leaves",
+    "imgUrl": "/img/pizzas/margherita.webp",
+    "toppings": [
+      "Tomato sauce",
+      "Mozzarella cheese",
+      "Fresh basil leaves"
+    ],
+    "rating": 4.5,
+    "options": {
+      "sizes": [
+        "Small",
+        "Medium",
+        "Large"
+      ],
+      "crust": [
+        "Thin",
+        "Thick"
+      ],
+      "price": {
+        "small": 5.99,
+        "medium": 8.99,
+        "large": 11.99
+      }
+    }
+  },
+  {
+    "id": "4567",
+    "title": "Pepperoni",
+    "description": "A classic pizza topped with tomato sauce, mozzarella cheese, and slices of pepperoni",
+    "imgUrl": "/img/pizzas/pepperoni.webp",
+    "toppings": [
+      "Tomato sauce",
+      "Mozzarella cheese",
+      "Pepperoni slices"
+    ],
+    "rating": 4.3,
+    "options": {
+      "sizes": [
+        "Small",
+        "Medium",
+        "Large"
+      ],
+      "crust": [
+        "Thin",
+        "Thick"
+      ],
+      "price": {
+        "small": 6.99,
+        "medium": 9.99,
+        "large": 12.99
+      }
+    }
+  },
+  {
+    "id": "04537",
+    "title": "Hawaiian",
+    "description": "A delicious pizza topped with tomato sauce, mozzarella cheese, ham, and pineapple chunks",
+    "imgUrl": "/img/pizzas/hawaiian.webp",
+    "toppings": [
+      "Tomato sauce",
+      "Mozzarella cheese",
+      "Ham",
+      "Pineapple chunks"
+    ],
+    "rating": 4.1,
+    "options": {
+      "sizes": [
+        "Small",
+        "Medium",
+        "Large"
+      ],
+      "crust": [
+        "Thin",
+        "Thick"
+      ],
+      "price": {
+        "small": 7.99,
+        "medium": 10.99,
+        "large": 13.99
+      }
+    }
+  },
+  {
+    "id": "37042",
+    "title": "Meat Lovers",
+    "description": "A hearty pizza topped with tomato sauce, mozzarella cheese, pepperoni, sausage, and bacon",
+    "imgUrl": "/img/pizzas/meat-lovers.webp",
+    "toppings": [
+      "Tomato sauce",
+      "Mozzarella cheese",
+      "Pepperoni",
+      "Sausage",
+      "Bacon"
+    ],
+    "rating": 4.8,
+    "options": {
+      "sizes": [
+        "Small",
+        "Medium",
+        "Large"
+      ],
+      "crust": [
+        "Thin",
+        "Thick"
+      ],
+      "price": {
+        "small": 8.99,
+        "medium": 11.99,
+        "large": 14.99
+      }
+    }
+  },
+  {
+    "id": "70120",
+    "title": "Veggie",
+    "description": "A flavorful pizza topped with tomato sauce, mozzarella cheese, mushrooms, onions, peppers, and olives",
+    "imgUrl": "/img/pizzas/veggie.webp",
+    "toppings": [
+      "Tomato sauce",
+      "Mozzarella cheese",
+      "Mushrooms",
+      "Onions",
+      "Peppers",
+      "Olives"
+    ],
+    "rating": 4.4,
+    "options": {
+      "sizes": [
+        "Small",
+        "Medium",
+        "Large"
+      ],
+      "crust": [
+        "Thin",
+        "Thick"
+      ],
+      "price": {
+        "small": 5.99,
+        "medium": 9.99,
+        "large": 12.99
+      }
+    }
+  },
+  {
+    "id": "04563",
+    "title": "BBQ Chicken",
+    "description": "A delicious pizza topped with barbecue sauce, mozzarella cheese, grilled chicken, onions, and peppers",
+    "imgUrl": "/img/pizzas/bbq.webp",
+    "toppings": [
+      "Barbecue sauce",
+      "Mozzarella cheese",
+      "Grilled chicken",
+      "Onions",
+      "Peppers"
+    ],
+    "rating": 4.2,
+    "options": {
+      "sizes": [
+        "Small",
+        "Medium",
+        "Large"
+      ],
+      "crust": [
+        "Thin",
+        "Thick"
+      ],
+      "price": {
+        "small": 8.99,
+        "medium": 11.99,
+        "large": 14.99
+      }
+    }
+  },
+  {
+    "id": "6942",
+    "title": "Four Cheese",
+    "description": "A delicious pizza topped with tomato sauce, mozzarella cheese, cheddar cheese, parmesan cheese, and feta cheese",
+    "imgUrl": "/img/pizzas/four-cheese.webp",
+    "toppings": [
+      "Tomato sauce",
+      "Mozzarella cheese",
+      "Cheddar cheese",
+      "Parmesan cheese",
+      "Feta cheese"
+    ],
+    "rating": 4.6,
+    "options": {
+      "sizes": [
+        "Small",
+        "Medium",
+        "Large"
+      ],
+      "crust": [
+        "Thin",
+        "Thick"
+      ],
+      "price": {
+        "small": 7.99,
+        "medium": 10.99,
+        "large": 13.99
+      }
+    }
+  },
+  {
+    "id": "24762",
+    "title": "Supreme",
+    "description": "A satisfying pizza topped with tomato sauce, mozzarella cheese, pepperoni, sausage, green peppers, onions, and mushrooms",
+    "imgUrl": "/img/pizzas/supreme.webp",
+    "toppings": [
+      "Tomato sauce",
+      "Mozzarella cheese",
+      "Pepperoni",
+      "Sausage",
+      "Green peppers",
+      "Onions",
+      "Mushrooms"
+    ],
+    "rating": 4.7,
+    "options": {
+      "sizes": [
+        "Small",
+        "Medium",
+        "Large"
+      ],
+      "crust": [
+        "Thin",
+        "Thick"
+      ],
+      "price": {
+        "small": 8.99,
+        "medium": 11.99,
+        "large": 14.99
+      }
+    }
+  },
+  {
+    "id": "3794",
+    "title": "Buffalo Chicken",
+    "description": "A spicy pizza topped with buffalo sauce, mozzarella cheese, grilled chicken, red onions, and blue cheese crumbles",
+    "imgUrl": "/img/pizzas/buffalo.webp",
+    "toppings": [
+      "Buffalo sauce",
+      "Mozzarella cheese",
+      "Grilled chicken",
+      "Red onions",
+      "Blue cheese crumbles"
+    ],
+    "rating": 4.3,
+    "options": {
+      "sizes": [
+        "Small",
+        "Medium",
+        "Large"
+      ],
+      "crust": [
+        "Thin",
+        "Thick"
+      ],
+      "price": {
+        "small": 9.99,
+        "medium": 13.99,
+        "large": 15.99
+      }
+    }
+  },
+  {
+    "id": "8422",
+    "title": "White",
+    "description": "A tasty pizza topped with olive oil, garlic, mozzarella cheese, ricotta cheese, and spinach",
+    "imgUrl": "/img/pizzas/white.webp",
+    "toppings": [
+      "Olive oil",
+      "Garlic",
+      "Mozzarella cheese",
+      "Ricotta cheese",
+      "Spinach"
+    ],
+    "rating": 4.5,
+    "options": {
+      "sizes": [
+        "Small",
+        "Medium",
+        "Large"
+      ],
+      "crust": [
+        "Thin",
+        "Thick"
+      ],
+      "price": {
+        "small": 7.99,
+        "medium": 10.99,
+        "large": 13.99
+      }
+    }
+  }
+]

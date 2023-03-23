@@ -1,0 +1,72 @@
+// Заголовки, загальні БЕМ блоки та інше...
+.search-block {
+  display: flex;
+  align-items: center;
+  position: relative;
+  max-width: rem(280);
+  width: 100%;
+  &__input {
+    width: 100%;
+    background-color: transparent;
+    border: 1px solid #7b7b7b;
+    padding: rem(5) rem(35) rem(5) rem(20);
+    border-radius: rem(10);
+    outline: none;
+    &::placeholder {
+      color: #1e1e1e;
+    }
+  }
+  &__icon {
+    position: absolute;
+    right: rem(0);
+    width: rem(40);
+    height: rem(35);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+  }
+}
+
+.cart-block {
+  display: flex;
+  align-items: center;
+  border: 1px solid #7b7b7b;
+  border-radius: rem(30);
+  background-color: #fff;
+  max-height: rem(50);
+  &__amount {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: #4f4f4f;
+    color: #fff;
+    width: rem(50);
+    height: rem(50);
+    border-radius: 50%;
+    cursor: pointer;
+    span {
+      font-size: rem(18);
+    }
+    svg {
+      font-size: rem(20);
+    }
+  }
+
+  &__price {
+    line-height: math.div(50, 18);
+    padding: rem(0) rem(10);
+    margin: 0 rem(10);
+    cursor: pointer;
+  }
+
+  &__order {
+    font-size: rem(20);
+    padding: rem(10) rem(25);
+    background-color: #ff0000;
+    color: #fff;
+    border-radius: rem(30);
+    cursor: pointer;
+  }
+}
